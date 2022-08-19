@@ -1,4 +1,16 @@
-
+html {
+    background: #ddd;
+    height: 100%;
+    display: flex;
+}
+body {
+    width: 100%;
+    margin: auto;
+}
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
 /* 
 
     You can write your own styles here...
