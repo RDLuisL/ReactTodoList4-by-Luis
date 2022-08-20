@@ -26,8 +26,7 @@ const FormTodo = props => {
                     />
                                        
                     <button
-                        className="button pink" 
-                        class="btn btn-success"
+                        className="button pink btn btn-success"
                         // este modulo es el condicional que si el valor del arreglo esta vacio se desabilita
                         disabled={todos ? "" : "disable"}
                     > ➕
